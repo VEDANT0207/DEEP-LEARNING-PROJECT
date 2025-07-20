@@ -12,6 +12,8 @@
 
 *MENTOR* : NEELA SANTOSH
 
+ # PROJECT 2: Garbage Classification Using Deep Learning
+
 In this project, we built a Convolutional Neural Network (CNN) to classify images of garbage into six meaningful categories: cardboard, glass, metal, paper, plastic, and trash. The goal was to apply deep learning, specifically using TensorFlow and Keras, to solve a real-world image classification task. The idea of automating waste classification holds tremendous value in promoting effective waste management systems, minimizing manual sorting, and improving the speed and accuracy of recycling operations. This work aligns with broader sustainability and environmental goals by offering a potential prototype for intelligent, AI-driven waste segregation systems.
 
 The dataset for this project was sourced from Kaggle and contains approximately 2,500 labeled images distributed across six folders — each representing a different class of garbage. These folders served as class labels and were loaded using Keras’ flow_from_directory method. The images were preprocessed by resizing them to 128×128 pixels, rescaling their pixel values between 0 and 1, and splitting the data into training and validation sets in an 80:20 ratio. This preparation ensured that the data was in a suitable format for training a deep learning model efficiently and accurately.

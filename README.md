@@ -26,3 +26,8 @@ From a practical perspective, this project has significant real-world applicatio
 
 Overall, this project helped solidify my understanding of convolutional neural networks, image classification techniques, and TensorFlow-based model building. I learned how to handle and preprocess real-world image data, design an effective deep learning architecture, evaluate and visualize model performance, and apply good practices such as early stopping and dropout to improve generalization. It was a rewarding and insightful experience that combined technical learning with real-world impact.
 
+Dataset Source: [Garbage Classification - Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
+
+Saved Model(since size exceeds limit) - https://drive.google.com/file/d/1Q6usHRQe0j38zGjsnFWKe9xK-XbjKbrZ/view?usp=drive_link
+
+<img width="1473" height="338" alt="Image" src="https://github.com/user-attachments/assets/02ec68cc-6fe3-4f59-bdb0-af5eab22c773" />
